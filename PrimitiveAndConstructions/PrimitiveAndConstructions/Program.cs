@@ -10,6 +10,7 @@ namespace PrimitiveAndConstructions
             CastingTipes.WritePrimitive();
             SystemStringMethods.WriteString();
             ImplementSystemObjectMethods.WriteMethods();
+            ImplementVarTypeMethods.WriteMethods();
 
         }
     }

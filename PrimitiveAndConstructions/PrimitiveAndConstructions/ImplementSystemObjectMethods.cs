@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace PrimitiveAndConstructions
 {
-    public class ImplementSystemObjectMethods
+    public static class ImplementSystemObjectMethods
     {
         public static void WriteMethods()
         {
