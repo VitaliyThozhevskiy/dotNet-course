@@ -6,7 +6,7 @@ namespace PrimitiveAndConstructions
     public static class ImplementVarTypeMethods
     {
         
-        public static int ReturnValue()
+        private static int ReturnValue()
         {
             var a = 5;
             int b = 5;

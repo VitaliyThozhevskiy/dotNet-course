@@ -11,6 +11,7 @@ namespace PrimitiveAndConstructions
             SystemStringMethods.WriteString();
             ImplementSystemObjectMethods.WriteMethods();
             ImplementVarTypeMethods.WriteMethods();
+            ImplementConstructions.WriteMethods();
 
         }
     }
