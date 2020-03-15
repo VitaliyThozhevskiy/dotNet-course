@@ -8,6 +8,7 @@ namespace PrimitiveAndConstructions
         {
             PrimitiveType.WritePrimitive();
             CastingTipes.WritePrimitive();
+            SystemStringMethods.WriteString();
 
         }
     }
