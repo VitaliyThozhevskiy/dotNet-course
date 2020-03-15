@@ -6,7 +6,11 @@ namespace PrimitiveAndConstructions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        
+            PrimitiveType primitive = new PrimitiveType();
+            primitive.WritePrimitive();
+
+            // Console.ReadLine();
         }
     }
 }
